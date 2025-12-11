@@ -1,2 +1,5 @@
 # tcs-internship-customer-segmentation-recommendation-system
 An end-to-end e-commerce customer segmentation and recommendation system using synthetic data. Includes data prep, RFM and behavioral features, feature scaling, K-Means (elbow method), and rule-based recommendations by segment (VIP, Loyal, At-Risk, Occasional, New), with outputs and visual assets for dashboards.
+A customer segmentation and recommendation system built as part of a TCS internship project.
+Suggested GitHub description
+This project uses synthetic e‑commerce transaction data to segment customers and generate personalized recommendations. It builds an end‑to‑end pipeline: data generation, cleaning, RFM and behavioral feature engineering, feature scaling, K‑Means clustering (with elbow method for optimal k), and rule‑based recommendations for each segment (VIP, Loyal, At‑Risk, Occasional, New). The repository includes Python code, prepared customer‑level datasets, cluster distribution outputs, and visualization assets that can be used to create dashboards and support business decisions. 
