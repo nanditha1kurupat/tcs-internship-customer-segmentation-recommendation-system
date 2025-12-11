@@ -1,0 +1,21 @@
+customer_id,cluster,segment_name,recommendation
+0,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+1,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+2,2,At-Risk,Trigger win-back campaigns with strong discounts and reminder emails to re-engage.
+3,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+4,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+5,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+6,1,VIP,"Offer exclusive early-access deals, high-value bundles, and VIP loyalty rewards."
+7,3,Occasional,"Send gentle nudges, seasonal offers, and social-proof based recommendations."
+8,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+9,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+10,3,Occasional,"Send gentle nudges, seasonal offers, and social-proof based recommendations."
+11,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+12,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+13,1,VIP,"Offer exclusive early-access deals, high-value bundles, and VIP loyalty rewards."
+14,2,At-Risk,Trigger win-back campaigns with strong discounts and reminder emails to re-engage.
+15,4,New,"Provide onboarding discounts, best-seller recommendations, and welcome journeys."
+16,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+17,2,At-Risk,Trigger win-back campaigns with strong discounts and reminder emails to re-engage.
+18,0,Loyal,"Send regular personalized offers, loyalty points, and cross-sell complementary products."
+19,1,VIP,"Offer exclusive early-access deals, high-value bundles, and VIP loyalty rewards."
